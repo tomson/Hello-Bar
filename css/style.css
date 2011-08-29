@@ -267,6 +267,7 @@ td { vertical-align: top; }
 /* :relative - Pushes the page, :absolute - Covers page content, :fixed - Stays at the top of the page. */
 #hbc { position: relative; width: 100%; margin: 0 auto; top: 0; left: 0; z-index: 999; }
 
+/* DO NOT MODIFY BELOW */
 #hello_bar {
     background: url("../img/hellow_bg.png") repeat-x scroll 0 0 transparent;
     height: 40px;
